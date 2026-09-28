@@ -1,0 +1,11 @@
+{
+  "stage": "Starter",
+  "module": 1,
+  "assets_generated": true,
+  "engine": "5.8.2",
+  "compiled": true,
+  "source_prepared": true,
+  "acceptance_tested": true,
+  "editor_checks_passed": 2,
+  "runtime_verified": true
+}

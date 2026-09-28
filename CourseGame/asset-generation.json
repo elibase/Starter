@@ -1,0 +1,9 @@
+{
+  "play_tested": true,
+  "assets_generated": true,
+  "engine": "5.8.2",
+  "stage": "Starter",
+  "assets": [
+    "Content\\Course\\Maps\\L_Test.umap"
+  ]
+}

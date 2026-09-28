@@ -1,0 +1,16 @@
+{
+  "engine": "5.8.2-56702186+++UE5+Release-5.8",
+  "stage": "Starter",
+  "checks": [
+    {
+      "check": "L_Test reopens from disk",
+      "passed": true
+    },
+    {
+      "check": "Saved camera faces positive Y",
+      "passed": true
+    }
+  ],
+  "all_passed": true,
+  "scope": "Fresh editor process, asset reload and native boundary checks; separate runtime verification required."
+}
