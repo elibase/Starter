@@ -1,9 +1,15 @@
 Unreal Engine: 5.8.2
+ 
 Compiler: Visual Studio Community 2026
+ 
 Project: CourseGame
+
 Level: L_Test
+
 Blueprints: BP_Pickup10, BP_Pickup25
+
 Native class: AConfigurablePickup
+
 Final values: 10, 25
 
 
